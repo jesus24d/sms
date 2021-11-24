@@ -1,1 +1,16 @@
-[{"id":"1","title":"Supermercado ","url_img":"assets/images/cest.jpeg"}, {"id":"2","title":"Licores ","url_img":"assets/images/drinks.jpeg"} ]
+[
+  {"id":"1","title":"Supermercado","url_img":"assets/images/cest.jpeg"},
+  {"id":"2","title":"Licores","url_img":"assets/images/drinks.jpeg"},
+  {"id":"2","title":"Tecnologia","url_img":"assets/images/electronics.jpeg"},
+  {"id":"2","title":"Comida Rapida","url_img":"assets/images/fastfood.jpeg"},
+  {"id":"2","title":"Frutas y Verduras","url_img":"assets/images/fruts.jpeg"},
+  {"id":"2","title":"Salud","url_img":"assets/images/med.jpeg"},
+  {"id":"2","title":"Ninos","url_img":"assets/images/bebe.png"},
+  {"id":"2","title":"Belleza","url_img":"assets/images/belleza.png"},
+  {"id":"2","title":"Ferreteria ","url_img":"assets/images/ferreteria.png"},
+  {"id":"2","title":"Flores","url_img":"assets/images/flores.png"},
+  {"id":"2","title":"Muebleria","url_img":"assets/images/hogar.pmg"},
+  {"id":"2","title":"Juguetes","url_img":"assets/images/juguetes.png"},
+  {"id":"2","title":"Mascotas","url_img":"assets/images/mascotas.png"},
+  {"id":"2","title":"Bodas","url_img":"assets/images/mascotas.png"},
+]
